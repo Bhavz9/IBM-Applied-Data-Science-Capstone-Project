@@ -2,10 +2,10 @@
 # Applied Data Science Capstone Project
 
 ## Overview
-Welcome to the Applied Data Science Capstone Project, where we embark on a journey to predict the successful landing of the Falcon 9 first stage. SpaceX, known for revolutionizing space travel, advertises Falcon 9 rocket launches at a competitive cost of 62 million dollars, compared to other providers' costs upwards of 165 million dollars. This significant cost-saving is largely attributed to SpaceX's ability to reuse the first stage of the rocket. By accurately predicting the landing success of the first stage, we can better estimate the launch costs, providing valuable insights for companies bidding against SpaceX for rocket launches.
+Welcome to the Applied Data Science Capstone Project, where we explore the prediction of successful landings of the Falcon 9 first stage. SpaceX has transformed the space industry by offering launches at a competitive price of $62 million—far lower than the typical $165 million charged by other providers—primarily due to its ability to reuse the rocket's first stage. Accurately predicting landing outcomes enables more precise cost estimations and offers valuable insights for companies competing with SpaceX in the launch services market.
 
 ## Objectives
-The project is structured into several comprehensive modules, each designed to build on the previous one, culminating in a robust predictive model. Below is a detailed description of the tasks and goals achieved in each module:
+This project is divided into a series of structured modules, each building upon the last to develop a reliable predictive model. Below is an overview of the key tasks and objectives accomplished throughout each phase of the project:
 
 ### 1. Request to the SpaceX API and Data Wrangling
 - **Data Collection**: We initiated our project by making a GET request to the SpaceX API to gather historical launch data. This data included various parameters essential for our analysis.
